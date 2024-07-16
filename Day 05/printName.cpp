@@ -6,7 +6,7 @@ void print(int i, int n) {
         return;
     else {
         cout << "Akash" << " ";
-        print(i + 1, n); 
+        print(i + 1, ; 
     }
 }
 
